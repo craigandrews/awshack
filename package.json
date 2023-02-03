@@ -1,0 +1,9 @@
+{
+	"devDependencies": {
+		"typescript": "^4.9.5"
+	},
+	"dependencies": {
+		"@aws-sdk/client-sts": "^3.264.0",
+		"@vercel/node": "^2.9.0"
+	}
+}
